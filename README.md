@@ -5,7 +5,7 @@ This is an R package, in development, for regularized interval regression.
 ## Installation
 To install the package, use the devtools package:
 ```R
-devtools::install_github("anujkhare/iregnet")
+devtools::install_github("WLemieux03/iregnet")
 ```
 
 ## Example usage:
